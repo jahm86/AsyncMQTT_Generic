@@ -32,7 +32,8 @@
     { 
       "owner": "khoih-prog",
       "name": "ESPAsyncTCP",
-      "version": "https://github.com/khoih-prog/ESPAsyncTCP"
+      "version": "https://github.com/khoih-prog/ESPAsyncTCP",
+      "platforms": "espressif8266"
     },
     {
       "owner": "khoih-prog",
@@ -102,7 +103,8 @@
     },
     {
       "name": "STM32AsyncTCP",
-      "version": "https://github.com/khoih-prog/STM32AsyncTCP"
+      "version": "https://github.com/khoih-prog/STM32AsyncTCP",
+      "platforms": "ststm32"
     }
   ],
   "license": "MIT",
